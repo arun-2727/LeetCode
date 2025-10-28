@@ -1,0 +1,29 @@
+class Solution {
+public:
+bool isvowel(char c)
+{c=tolower(c);
+    return c=='a'||c=='e'||c=='i'||c=='o'||c=='u';
+}
+    int maxVowels(string s, int k) {
+       int count=0;
+       int maxc=0;
+        for(int i=0;i<k;i++)
+        {
+            if(isvowel(s[i]))
+            {
+                count++;
+            }
+        }
+        maxc=count;
+       
+        for(int i=k;i<s.size();i++)
+        {   
+            
+            if(isvowel(s[i]))count++;
+            if(isvowel(s[i-k]))count--;
+            maxc=max(maxc,count);
+
+        }
+        return maxc;
+    }
+};
