@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3668-restore-finishing-order](https://github.com/arun-2727/Leetcode/tree/master/3668-restore-finishing-order) |
+## Math
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/arun-2727/Leetcode/tree/master/0282-expression-add-operators) |
+## String
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/arun-2727/Leetcode/tree/master/0282-expression-add-operators) |
+## Backtracking
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/arun-2727/Leetcode/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
