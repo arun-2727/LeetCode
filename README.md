@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/arun-2727/Leetcode/tree/master/0078-subsets) |
 | [3668-restore-finishing-order](https://github.com/arun-2727/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -21,5 +22,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/arun-2727/Leetcode/tree/master/0078-subsets) |
 | [0282-expression-add-operators](https://github.com/arun-2727/Leetcode/tree/master/0282-expression-add-operators) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/arun-2727/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
